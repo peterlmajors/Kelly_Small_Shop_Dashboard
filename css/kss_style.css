@@ -1,0 +1,36 @@
+/* CSS Document For The Kelly's Small Shop R Shiny App */
+
+/*Body Element (Whole Page) */
+body {
+  background-color:#e8ecee;
+  font-family: Trebuchet MS;
+}
+
+/*Product Analysis Table */
+.well {
+  color: black;
+  background-color: #abc5cf;
+  width: 300%;
+}
+
+.progress-bar {
+  background-color: #7ea4b3 ;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
+  background-color: #7ea4b3;
+  color: #fff;
+}
+
+.nav-tabs>li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.input-group {
+    margin-bottom: 10px;
+}
+
+a {color: #fff;
+   background-color: #abc5cf;
+}
